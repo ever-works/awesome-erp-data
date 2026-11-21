@@ -1,0 +1,13 @@
+name: "Epicor"
+description: "Epicor provides industry-specific ERP software for manufacturing, distribution, retail, and services. Its offerings include Epicor Kinetic for manufacturing and supply chain management. It is a commercial product sold through paid licenses and subscriptions."
+source_url: "https://www.epicor.com/"
+category: "Manufacturing ERP"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "manufacturing"
+  - "supply-chain"
+icon_url: "https://icons.duckduckgo.com/ip3/www.epicor.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.epicor.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 18:41"

@@ -1,0 +1,13 @@
+name: "Infor"
+description: "Infor delivers cloud ERP suites tailored to specific industries such as manufacturing, healthcare, retail, and automotive. Products include Infor CloudSuite M3 and Infor LN. It is a commercial enterprise vendor with implementation and subscription pricing."
+source_url: "https://www.infor.com/"
+category: "Industry ERP"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "cloud"
+  - "industry-specific"
+icon_url: "https://icons.duckduckgo.com/ip3/www.infor.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.infor.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 18:41"

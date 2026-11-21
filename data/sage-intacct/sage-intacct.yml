@@ -1,0 +1,13 @@
+name: "Sage Intacct"
+description: "Sage Intacct is a cloud financial management and ERP solution for small and mid-sized businesses. It focuses on core accounting, multi-entity consolidation, and financial reporting. It is sold as a paid subscription with tiered pricing."
+source_url: "https://www.sage.com/products/sage-intacct"
+category: "SMB ERP"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "accounting"
+  - "financials"
+icon_url: "https://icons.duckduckgo.com/ip3/www.sage.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.sage.com/products/sage-intacct>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 18:41"

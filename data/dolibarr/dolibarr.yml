@@ -1,0 +1,13 @@
+name: "Dolibarr"
+description: "Dolibarr is an open-source ERP and CRM suite for small businesses, freelancers, and foundations. It includes invoicing, inventory, and point-of-sale features. It can be self-hosted or used via cloud partners under a free open-source license."
+source_url: "https://www.dolibarr.org/"
+category: "Open-Source ERP"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "crm"
+icon_url: "https://icons.duckduckgo.com/ip3/www.dolibarr.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.dolibarr.org/>\n- Repository: <https://github.com/Dolibarr/dolibarr>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 18:41"

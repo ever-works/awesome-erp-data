@@ -1,0 +1,13 @@
+name: "Acumatica"
+description: "Acumatica is a cloud ERP platform for small and mid-sized businesses across distribution, manufacturing, and retail. It provides financials, project accounting, and CRM with unlimited user licensing. Pricing is based on resources consumed rather than per-user seats."
+source_url: "https://www.acumatica.com/"
+category: "SMB ERP"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "manufacturing"
+  - "distribution"
+icon_url: "https://icons.duckduckgo.com/ip3/www.acumatica.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.acumatica.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 18:41"

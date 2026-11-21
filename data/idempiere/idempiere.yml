@@ -1,0 +1,13 @@
+name: "iDempiere"
+description: "iDempiere is an open-source ERP built on the ADempiere codebase and OSGi framework. It supports accounting, supply chain, and CRM for small to mid-sized organizations. The software is free to download and self-host under an open-source license."
+source_url: "https://www.idempiere.org/"
+category: "Open-Source ERP"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "accounting"
+icon_url: "https://icons.duckduckgo.com/ip3/www.idempiere.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.idempiere.org/>\n- Repository: <https://github.com/idempiere/idempiere>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 18:41"

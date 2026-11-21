@@ -1,0 +1,13 @@
+name: "SAP S/4HANA"
+description: "SAP S/4HANA is SAP's flagship enterprise resource planning suite built on the SAP HANA in-memory database. It targets large enterprises with modules for finance, supply chain, manufacturing, and sales. Licensing is enterprise-grade and sold through SAP sales channels."
+source_url: "https://www.sap.com/products/erp/s4hana.html"
+category: "Enterprise ERP"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "in-memory"
+icon_url: "https://icons.duckduckgo.com/ip3/www.sap.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.sap.com/products/erp/s4hana.html>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 18:41"

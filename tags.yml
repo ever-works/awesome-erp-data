@@ -1,0 +1,42 @@
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: modular
+  name: "Modular"
+- id: accounting
+  name: "Accounting"
+- id: inventory
+  name: "Inventory"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: cloud
+  name: "Cloud"
+- id: financials
+  name: "Financials"
+- id: ai-powered
+  name: "AI-Powered"
+- id: in-memory
+  name: "In-Memory"
+- id: microsoft-365
+  name: "Microsoft 365"
+- id: manufacturing
+  name: "Manufacturing"
+- id: distribution
+  name: "Distribution"
+- id: supply-chain
+  name: "Supply Chain"
+- id: industry-specific
+  name: "Industry-Specific"
+- id: crm
+  name: "CRM"
+- id: e-commerce
+  name: "E-commerce"

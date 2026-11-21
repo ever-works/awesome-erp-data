@@ -1,0 +1,12 @@
+- id: smb-erp
+  name: "SMB ERP"
+- id: enterprise-erp
+  name: "Enterprise ERP"
+- id: open-source-erp
+  name: "Open-Source ERP"
+- id: manufacturing-erp
+  name: "Manufacturing ERP"
+- id: industry-erp
+  name: "Industry ERP"
+- id: e-commerce-erp
+  name: "E-commerce ERP"

@@ -1,0 +1,13 @@
+name: "NetSuite"
+description: "NetSuite is a cloud-based ERP suite from Oracle for mid-sized and large enterprises. It includes financials, CRM, e-commerce, and supply chain management. It is sold as a paid subscription with annual licensing and implementation fees."
+source_url: "https://www.oracle.com/netsuite"
+category: "Enterprise ERP"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "cloud"
+  - "financials"
+icon_url: "https://icons.duckduckgo.com/ip3/www.oracle.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.oracle.com/netsuite>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 18:41"
