@@ -1,0 +1,22 @@
+name: Unit4 ERPx
+description: Unit4 ERPx is a proprietary ERP system from Unit4 for service
+  organizations, offering financial management, project management, and human
+  capital management. It is a paid commercial ERP for professional services and
+  public sector.
+source_url: https://www.unit4.com/
+category: Enterprise ERP
+tags:
+  - paid
+  - services
+  - professional-services
+featured: false
+markdown: |-
+  ## Overview
+
+  Unit4 ERPx is a proprietary ERP system from Unit4 for service organizations.
+
+  ## Pricing
+
+  Paid commercial software.
+brand: Unit4
+updated_at: 2026-11-23 01:51

@@ -1,0 +1,54 @@
+name: Invoice Ninja
+description: Invoice Ninja is a free and open-source ERP software platform for
+  invoicing, accounting, and business management. It is written in PHP and
+  offers self-hosted deployment for small businesses and freelancers.
+source_url: https://invoiceninja.com/
+category: Open-Source ERP
+tags:
+  - open-source
+  - self-hosted
+  - invoicing
+  - accounting
+markdown: >-
+  ## Overview
+
+
+  Invoice Ninja is a free and open-source ERP software platform designed for
+  invoicing, accounting, and business management. It is written in PHP and
+  supports self-hosted deployment.
+
+
+  ## Features
+
+
+  - Invoicing and billing
+
+  - Accounting and expense tracking
+
+  - Client management
+
+  - Payment gateway integrations
+
+  - Recurring invoices
+
+  - Self-hosted deployment
+
+  - Open-source
+
+
+  ## Pricing
+
+
+  Free and open-source self-hosted version. Cloud-hosted plans available
+  (pricing on website).
+
+
+  ## Repository
+
+
+  https://github.com/invoiceninja/invoiceninja
+brand: Invoice Ninja
+brand_logo_url: https://invoiceninja.com/logo.svg
+images:
+  - https://invoiceninja.com/screenshot.png
+updated_at: 2026-11-23 01:51

@@ -1,0 +1,27 @@
+name: PeopleSoft
+description: PeopleSoft is a proprietary ERP and HCM system from Oracle,
+  offering human capital management, financials, and supply chain management
+  functionality. It is a paid commercial ERP for enterprises and higher
+  education.
+source_url: https://www.oracle.com/applications/peoplesoft/
+category: Enterprise ERP
+tags:
+  - paid
+  - enterprise
+  - hcm
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PeopleSoft is a proprietary ERP and HCM system from Oracle, offering human
+  capital management, financials, and supply chain management functionality.
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: Oracle
+brand_logo_url: https://www.oracle.com/assets/brand-assets/svg/oracle_logo.svg
+updated_at: 2026-11-23 01:51

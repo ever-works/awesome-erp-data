@@ -1,0 +1,31 @@
+name: abas ERP
+description: abas ERP is a proprietary ERP system from abas Software AG,
+  designed for discrete manufacturing and engineering-to-order companies. It is
+  a paid commercial ERP available in multiple countries.
+source_url: https://www.abas-software.com/
+category: Manufacturing ERP
+tags:
+  - paid
+  - manufacturing
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  abas ERP is a proprietary ERP system from abas Software AG, designed for
+  discrete manufacturing and engineering-to-order companies.
+
+
+  ## Category
+
+
+  Proprietary commercial ERP for manufacturing.
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: abas Software AG
+updated_at: 2026-11-23 01:51

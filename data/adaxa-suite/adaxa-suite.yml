@@ -1,0 +1,35 @@
+name: Adaxa Suite
+description: Adaxa Suite is a Java-based, GPL-licensed integrated ERP built on
+  Adempiere/iDempiere, originating from Australia. It is free and open-source
+  ERP software.
+source_url: https://www.adaxa.com.au/
+category: Open-Source ERP
+tags:
+  - open-source
+  - GPL
+  - Java
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Adaxa Suite is an integrated ERP built on Adempiere/iDempiere, developed in
+  Australia.
+
+
+  ## License and Platform
+
+
+  - Platform: Java
+
+  - License: GPL
+
+  - Origin: Australia
+
+
+  ## Pricing
+
+
+  Free and open-source under the GPL license.
+brand: Adaxa
+updated_at: 2026-11-23 01:51

@@ -1,0 +1,37 @@
+name: Tryton
+description: Tryton is a Python, PostgreSQL, GTK+ and JavaScript-based
+  GPLv3-licensed ERP originally forked from TinyERP, featuring a cleaned-up code
+  base with a continuous update and migration path. It is developed worldwide
+  with a release in 2023-10 (version 7.0).
+source_url: https://www.tryton.org/
+category: Open-Source ERP
+tags:
+  - open-source
+  - GPLv3
+  - Python
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tryton is an open-source ERP originally forked from TinyERP, featuring a
+  cleaned-up code base with a continuous update and migration path.
+
+
+  ## License and Platform
+
+
+  - Platform: Python, PostgreSQL, GTK+, JavaScript
+
+  - License: GPLv3
+
+  - Origin: Worldwide
+
+  - Last stable release: 2023-10 (7.0)
+
+
+  ## Pricing
+
+
+  Free and open-source under the GPLv3 license.
+updated_at: 2026-11-23 01:51

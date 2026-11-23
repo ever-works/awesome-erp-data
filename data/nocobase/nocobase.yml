@@ -1,0 +1,50 @@
+name: NocoBase
+description: NocoBase is an open-source platform for building, running, and
+  evolving business systems with AI. It provides a foundation and governance for
+  business applications, with agents writing code and people making decisions.
+  It is released under the MIT license and its source code is available on
+  GitHub.
+source_url: https://nocobase.com/
+category: Open-Source ERP
+tags:
+  - open-source
+  - self-hosted
+  - low-code
+markdown: >-
+  ## Overview
+
+
+  NocoBase is an open-source platform for building, running, and evolving
+  business systems with AI. Agents write the code and do the work, NocoBase
+  provides the foundation and governance, and people make the decisions.
+
+
+  ## Features
+
+
+  - Open-source business system platform
+
+  - AI-powered application development
+
+  - Multi-tenancy support
+
+  - Extensible plugin architecture
+
+  - Self-hosted deployment
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Repository
+
+
+  https://github.com/nocobase/nocobase
+brand: NocoBase
+brand_logo_url: https://nocobase.com/logo.svg
+images:
+  - https://nocobase.com/preview.png
+updated_at: 2026-11-23 01:51

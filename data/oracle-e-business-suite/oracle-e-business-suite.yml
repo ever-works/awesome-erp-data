@@ -1,0 +1,23 @@
+name: Oracle E-Business Suite
+description: Oracle E-Business Suite is a proprietary on-premise ERP suite from
+  Oracle, offering integrated business applications for finance, supply chain,
+  human resources, and customer relationship management. It is a paid commercial
+  ERP.
+source_url: https://www.oracle.com/applications/e-business-suite/
+category: Enterprise ERP
+tags:
+  - paid
+  - enterprise
+  - on-premise
+featured: false
+markdown: |-
+  ## Overview
+
+  Oracle E-Business Suite is a proprietary on-premise ERP suite from Oracle.
+
+  ## Pricing
+
+  Paid commercial software.
+brand: Oracle
+brand_logo_url: https://www.oracle.com/assets/brand-assets/svg/oracle_logo.svg
+updated_at: 2026-11-23 01:51

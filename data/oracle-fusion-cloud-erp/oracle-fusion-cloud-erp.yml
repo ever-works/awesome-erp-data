@@ -1,0 +1,22 @@
+name: Oracle Fusion Cloud ERP
+description: Oracle Fusion Cloud ERP is a proprietary cloud ERP suite from
+  Oracle, offering financials, procurement, project management, and enterprise
+  performance management. It is a paid commercial cloud ERP for enterprises.
+source_url: https://www.oracle.com/applications/fusion-cloud-erp/
+category: Enterprise ERP
+tags:
+  - paid
+  - cloud
+  - enterprise
+featured: false
+markdown: |-
+  ## Overview
+
+  Oracle Fusion Cloud ERP is a proprietary cloud ERP suite from Oracle.
+
+  ## Pricing
+
+  Paid commercial software.
+brand: Oracle
+brand_logo_url: https://www.oracle.com/assets/brand-assets/svg/oracle_logo.svg
+updated_at: 2026-11-23 01:51

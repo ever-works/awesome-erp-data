@@ -1,0 +1,26 @@
+name: SAP Business One
+description: SAP Business One is a proprietary ERP system from SAP for small and
+  medium-sized enterprises, offering financials, sales, customer relationship
+  management, inventory, and operations. It is a paid commercial ERP for SMBs.
+source_url: https://www.sap.com/products/business-one.html
+category: SMB ERP
+tags:
+  - paid
+  - smb
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SAP Business One is a proprietary ERP system from SAP for small and
+  medium-sized enterprises.
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: SAP
+brand_logo_url: https://www.sap.com/content/dam/sap/images/sap-logo.svg
+updated_at: 2026-11-23 01:51

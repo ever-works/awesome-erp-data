@@ -1,0 +1,38 @@
+name: Comarch ERP
+description: Comarch ERP is a proprietary ERP suite from Comarch, ranging from
+  Comarch ERP XT for small businesses to Comarch ERP Enterprise (Semiramis) for
+  large companies. It includes Optima and Standard (Altum) editions and is a
+  paid commercial ERP.
+source_url: https://www.comarch.com/
+category: Enterprise ERP
+tags:
+  - paid
+  - sme
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Comarch ERP is a proprietary ERP suite from Comarch with editions for small
+  businesses to large companies.
+
+
+  ## Products
+
+
+  - Comarch ERP XT
+
+  - Comarch Optima
+
+  - Comarch ERP Standard (Altum)
+
+  - Comarch ERP Enterprise (Semiramis)
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: Comarch
+updated_at: 2026-11-23 01:51

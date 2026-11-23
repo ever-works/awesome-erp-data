@@ -1,0 +1,59 @@
+name: grocy
+description: ERP beyond your fridge - a groceries and household management
+  solution for tracking food inventory, shopping lists, chores, and household
+  tasks. Licensed under MIT, it supports self-hosted deployment via PHP and
+  Docker.
+source_url: https://grocy.info/
+category: Open-Source ERP
+tags:
+  - Open Source
+  - Self-Hosted
+  - Inventory Management
+featured: false
+markdown: >-
+  # grocy
+
+
+  grocy is an ERP-style household and grocery management solution for tracking
+  food inventory, shopping lists, chores, and household tasks.
+
+
+  ## Features
+
+
+  - Food and product inventory management
+
+  - Shopping list generation and tracking
+
+  - Chore and task management
+
+  - Expiration date tracking
+
+  - Recipe and meal planning
+
+  - Barcode scanning support
+
+  - User and household management
+
+
+  ## Deployment
+
+
+  Self-hosted via PHP and Docker.
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Repository
+
+
+  Source code is available on GitHub.
+brand: grocy
+brand_logo_url: https://grocy.info/static/images/logo.svg
+images:
+  - https://grocy.info/static/images/screenshot.png
+updated_at: 2026-11-23 01:51

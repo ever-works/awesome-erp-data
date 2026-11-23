@@ -1,0 +1,56 @@
+name: farmOS
+description: Web-based farm record keeping application built for managing farm
+  activities, crops, livestock, equipment, and financials. Licensed under
+  GPL-2.0, it supports self-hosted deployment via PHP and Docker.
+source_url: https://farmos.org/
+category: Open-Source ERP
+tags:
+  - Open Source
+  - Self-Hosted
+  - Agriculture
+featured: false
+markdown: >-
+  # farmOS
+
+
+  farmOS is a web-based farm record keeping application designed for managing
+  farm operations including crops, livestock, equipment, and financials.
+
+
+  ## Features
+
+
+  - Crop and field record keeping
+
+  - Livestock and animal management
+
+  - Equipment and asset tracking
+
+  - Financial logging and activity tracking
+
+  - Map-based field and location management
+
+  - Event and task logging
+
+
+  ## Deployment
+
+
+  Self-hosted via PHP and Docker.
+
+
+  ## License
+
+
+  GPL-2.0
+
+
+  ## Repository
+
+
+  Source code is available on GitHub.
+brand: farmOS
+brand_logo_url: https://farmos.org/themes/custom/farmos/logo.svg
+images:
+  - https://farmos.org/themes/custom/farmos/images/screenshot.png
+updated_at: 2026-11-23 01:51

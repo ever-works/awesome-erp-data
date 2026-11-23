@@ -1,0 +1,28 @@
+name: SAP ERP
+description: SAP ERP is a proprietary enterprise ERP system from SAP, offering
+  integrated business applications for finance, supply chain, manufacturing,
+  human resources, and customer relationship management. It is a paid commercial
+  ERP for large enterprises.
+source_url: https://www.sap.com/products/erp.html
+category: Enterprise ERP
+tags:
+  - paid
+  - enterprise
+  - on-premise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SAP ERP is a proprietary enterprise ERP system from SAP, offering integrated
+  business applications for finance, supply chain, manufacturing, human
+  resources, and customer relationship management.
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: SAP
+brand_logo_url: https://www.sap.com/content/dam/sap/images/sap-logo.svg
+updated_at: 2026-11-23 01:51

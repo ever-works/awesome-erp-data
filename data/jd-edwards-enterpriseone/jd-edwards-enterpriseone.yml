@@ -1,0 +1,26 @@
+name: JD Edwards EnterpriseOne
+description: JD Edwards EnterpriseOne is a proprietary ERP system from Oracle,
+  offering integrated business applications for manufacturing, distribution, and
+  service industries. It is a paid commercial ERP for enterprises.
+source_url: https://www.oracle.com/applications/jd-edwards-enterpriseone/
+category: Enterprise ERP
+tags:
+  - paid
+  - enterprise
+  - manufacturing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  JD Edwards EnterpriseOne is a proprietary ERP system from Oracle for
+  manufacturing, distribution, and service industries.
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: Oracle
+brand_logo_url: https://www.oracle.com/assets/brand-assets/svg/oracle_logo.svg
+updated_at: 2026-11-23 01:51

@@ -1,0 +1,36 @@
+name: LedgerSMB
+description: LedgerSMB is a Perl and PostgreSQL-based GPL-licensed double entry
+  accounting and ERP system, originally a 2006 fork of SQL-Ledger. It is
+  developed worldwide with a release in July 2026 (version 1.13.7).
+source_url: https://www.ledgersmb.org/
+category: SMB ERP
+tags:
+  - open-source
+  - GPL
+  - accounting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LedgerSMB is an open-source double entry accounting and ERP system, originally
+  a 2006 fork of SQL-Ledger.
+
+
+  ## License and Platform
+
+
+  - Platform: Perl, PostgreSQL
+
+  - License: GPL
+
+  - Origin: Worldwide
+
+  - Last stable release: 2026-July (1.13.7)
+
+
+  ## Pricing
+
+
+  Free and open-source under the GPL license.
+updated_at: 2026-11-23 01:51

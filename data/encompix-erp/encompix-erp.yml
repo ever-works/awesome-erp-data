@@ -1,0 +1,22 @@
+name: Encompix ERP
+description: Encompix ERP is a proprietary ERP system for engineer-to-order
+  manufacturers, offering estimating, project management, engineering change
+  control, and shop floor control functionality. It is a paid commercial ERP for
+  manufacturing.
+source_url: https://encompix.com/
+category: Manufacturing ERP
+tags:
+  - paid
+  - engineer-to-order
+  - manufacturing
+featured: false
+markdown: |-
+  ## Overview
+
+  Encompix ERP is a proprietary ERP system for engineer-to-order manufacturers.
+
+  ## Pricing
+
+  Paid commercial software.
+brand: Encompix ERP
+updated_at: 2026-11-23 01:51

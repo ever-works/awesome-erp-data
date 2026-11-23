@@ -1,0 +1,27 @@
+name: Panaya CloudQuality Suite
+description: Panaya CloudQuality Suite is a proprietary SaaS platform from
+  Panaya for ERP testing, change management, and compliance for SAP, Oracle, and
+  Salesforce implementations. It is a paid commercial service.
+source_url: https://www.panaya.com/
+category: Enterprise ERP
+tags:
+  - paid
+  - saas
+  - testing
+  - compliance
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Panaya CloudQuality Suite is a proprietary SaaS platform for ERP testing,
+  change management, and compliance for SAP, Oracle, and Salesforce
+  implementations.
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: Panaya
+updated_at: 2026-11-23 01:51

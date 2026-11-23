@@ -1,0 +1,22 @@
+name: Workday
+description: Workday is a proprietary cloud ERP and HCM system from Workday,
+  Inc., offering financial management, human capital management, planning, and
+  analytics for enterprises. It is a paid commercial cloud ERP.
+source_url: https://www.workday.com/
+category: Enterprise ERP
+tags:
+  - paid
+  - cloud
+  - enterprise
+  - hcm
+featured: false
+markdown: |-
+  ## Overview
+
+  Workday is a proprietary cloud ERP and HCM system from Workday, Inc.
+
+  ## Pricing
+
+  Paid commercial software.
+brand: Workday Inc
+updated_at: 2026-11-23 01:51

@@ -1,0 +1,25 @@
+name: Sage 500 ERP
+description: Sage 500 ERP is a proprietary ERP system from Sage Group for
+  medium-sized businesses, offering financial management, distribution,
+  manufacturing, and project management. It is a paid commercial ERP.
+source_url: https://www.sage.com/
+category: SMB ERP
+tags:
+  - paid
+  - smb
+  - manufacturing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Sage 500 ERP is a proprietary ERP system from Sage Group for medium-sized
+  businesses.
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: Sage Group
+updated_at: 2026-11-23 01:51

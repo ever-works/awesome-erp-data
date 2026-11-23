@@ -1,0 +1,36 @@
+name: SQL-Ledger
+description: SQL-Ledger is a Perl and PostgreSQL-based GPL-licensed double entry
+  accounting and ERP system originating from Canada. Its last stable release was
+  in 2020-01 (version 3.2.9).
+source_url: https://www.sql-ledger.com/
+category: SMB ERP
+tags:
+  - open-source
+  - GPL
+  - accounting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SQL-Ledger is an open-source double entry accounting and ERP system from
+  Canada.
+
+
+  ## License and Platform
+
+
+  - Platform: Perl, PostgreSQL
+
+  - License: GPL
+
+  - Origin: Canada
+
+  - Last stable release: 2020-01 (3.2.9)
+
+
+  ## Pricing
+
+
+  Free and open-source under the GPL license.
+updated_at: 2026-11-23 01:51

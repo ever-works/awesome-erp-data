@@ -1,0 +1,23 @@
+name: Oracle Retail
+description: Oracle Retail is a proprietary retail ERP suite from Oracle,
+  offering merchandise planning, pricing, inventory, and point of sale
+  functionality for retail businesses. It is a paid commercial ERP for the
+  retail industry.
+source_url: https://www.oracle.com/retail/
+category: E-commerce ERP
+tags:
+  - paid
+  - retail
+  - enterprise
+featured: false
+markdown: |-
+  ## Overview
+
+  Oracle Retail is a proprietary retail ERP suite from Oracle.
+
+  ## Pricing
+
+  Paid commercial software.
+brand: Oracle
+brand_logo_url: https://www.oracle.com/assets/brand-assets/svg/oracle_logo.svg
+updated_at: 2026-11-23 01:51

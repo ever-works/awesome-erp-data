@@ -1,0 +1,26 @@
+name: SAP Business ByDesign
+description: SAP Business ByDesign is a proprietary cloud ERP suite from SAP for
+  small and midsize businesses, offering finance, CRM, supply chain, and human
+  resources functionality. It is a paid commercial cloud ERP.
+source_url: https://www.sap.com/products/bydesign.html
+category: SMB ERP
+tags:
+  - paid
+  - cloud
+  - smb
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SAP Business ByDesign is a proprietary cloud ERP suite from SAP for small and
+  midsize businesses.
+
+
+  ## Pricing
+
+
+  Paid commercial software.
+brand: SAP
+brand_logo_url: https://www.sap.com/content/dam/sap/images/sap-logo.svg
+updated_at: 2026-11-23 01:51

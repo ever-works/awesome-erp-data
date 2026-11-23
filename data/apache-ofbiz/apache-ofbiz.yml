@@ -1,0 +1,39 @@
+name: Apache OFBiz
+description: Apache OFBiz is a business solutions and applications framework
+  from the Apache Software Foundation, written in Java, JavaScript, FreeMarker,
+  Groovy and XML under the Apache License 2.0. It is a worldwide open-source ERP
+  platform with a release dated 2026-07-04 (version 24.09.07).
+source_url: https://ofbiz.apache.org/
+category: Open-Source ERP
+tags:
+  - open-source
+  - Apache License 2.0
+  - Java
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Apache OFBiz is a business solutions and applications framework from the
+  Apache Software Foundation.
+
+
+  ## License and Platform
+
+
+  - Platform: Java, JavaScript, FreeMarker, Groovy, XML
+
+  - License: Apache License 2.0
+
+  - Origin: Worldwide
+
+  - Last stable release: 2026-07-04 (24.09.07)
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache License 2.0.
+brand: Apache Software Foundation
+brand_logo_url: https://ofbiz.apache.org/images/ofbiz-logo.svg
+updated_at: 2026-11-23 01:51
