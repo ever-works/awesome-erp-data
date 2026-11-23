@@ -1,42 +1,150 @@
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: api
-  name: "API"
+  name: API
 - id: modular
-  name: "Modular"
+  name: Modular
 - id: accounting
-  name: "Accounting"
+  name: Accounting
 - id: inventory
-  name: "Inventory"
+  name: Inventory
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: financials
-  name: "Financials"
+  name: Financials
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: in-memory
-  name: "In-Memory"
+  name: In-Memory
 - id: microsoft-365
-  name: "Microsoft 365"
+  name: Microsoft 365
 - id: manufacturing
-  name: "Manufacturing"
+  name: Manufacturing
 - id: distribution
-  name: "Distribution"
+  name: Distribution
 - id: supply-chain
-  name: "Supply Chain"
+  name: Supply Chain
 - id: industry-specific
-  name: "Industry-Specific"
+  name: Industry Specific
 - id: crm
-  name: "CRM"
+  name: CRM
 - id: e-commerce
-  name: "E-commerce"
+  name: E Commerce
+- id: smb
+  name: SMB
+- id: inventory-management
+  name: Inventory Management
+- id: quickbooks-integration
+  name: QuickBooks Integration
+- id: gpl
+  name: GPL
+- id: java
+  name: Java
+- id: apache-license-20
+  name: Apache License 2.0
+- id: education
+  name: Education
+- id: higher-education
+  name: Higher Education
+- id: discrete
+  name: Discrete
+- id: process
+  name: Process
+- id: process-manufacturing
+  name: Process Manufacturing
+- id: food-beverage
+  name: Food Beverage
+- id: pharmaceutical
+  name: Pharmaceutical
+- id: mes
+  name: MES
+- id: qms
+  name: QMS
+- id: finance
+  name: Finance
+- id: public-sector
+  name: Public Sector
+- id: government
+  name: Government
+- id: sme
+  name: Sme
+- id: crypto
+  name: Crypto
+- id: government-contracting
+  name: Government Contracting
+- id: project-based
+  name: Project Based
+- id: engineer-to-order
+  name: Engineer To Order
+- id: python
+  name: Python
+- id: retail
+  name: Retail
+- id: pos
+  name: Pos
+- id: agriculture
+  name: Agriculture
+- id: salesforce
+  name: Salesforce
+- id: professional-services
+  name: Professional Services
+- id: quickbooks
+  name: Quickbooks
+- id: asset-management
+  name: Asset Management
+- id: make-to-order
+  name: Make To Order
+- id: invoicing
+  name: Invoicing
+- id: projects
+  name: Projects
+- id: low-code
+  name: Low Code
+- id: small-business
+  name: Small Business
+- id: construction
+  name: Construction
+- id: agpl-30
+  name: AGPL 3.0
+- id: on-premise
+  name: On Premise
+- id: saas
+  name: Saas
+- id: testing
+  name: Testing
+- id: compliance
+  name: Compliance
+- id: hcm
+  name: Hcm
+- id: planning
+  name: Planning
+- id: optimization
+  name: Optimization
+- id: aviation
+  name: Aviation
+- id: mro
+  name: Mro
+- id: multi-channel
+  name: Multi Channel
+- id: order-management
+  name: Order Management
+- id: cad-cam
+  name: Cad Cam
+- id: gplv3
+  name: GPLv3
+- id: services
+  name: Services
+- id: real-time
+  name: Real Time
+- id: traceability
+  name: Traceability

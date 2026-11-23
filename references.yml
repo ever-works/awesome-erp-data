@@ -1,14 +1,57 @@
-- url: "https://en.wikipedia.org/wiki/List_of_ERP_software_packages"
-  title: "Wikipedia — List of ERP software packages"
-- url: "https://www.softwaresuggest.com/erp-software"
-  title: "SoftwareSuggest — ERP software"
-- url: "https://www.saashub.com/best-erp-software"
-  title: "SaaSHub — ERP"
-- url: "https://zapier.com/blog/best-erp-software/"
-  title: "Zapier — The 8 best ERP software systems in 2025"
-- url: "https://openalternative.co/categories/business-software/erp-operations"
-  title: "OpenAlternative — ERP & Operations"
-- url: "https://awesome-selfhosted.net/tags/resource-planning.html"
-  title: "awesome-selfhosted — Resource Planning"
-- url: "https://github.com/topics/erp"
-  title: "GitHub topic — `erp` (6,088 repos)"
+- url: https://awesome-selfhosted.net/tags/resource-planning.html
+  normalized_url: https://awesome-selfhosted.net/tags/resource-planning.html
+  first_seen_at: 2026-11-23T01:47:12.112Z
+  last_attempted_at: 2026-11-23T01:47:12.112Z
+  last_success_at: 2026-11-23T01:47:12.112Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://en.wikipedia.org/wiki/List_of_ERP_software_packages
+  normalized_url: https://en.wikipedia.org/wiki/List_of_ERP_software_packages
+  first_seen_at: 2026-11-23T01:41:30.767Z
+  last_attempted_at: 2026-11-23T01:41:30.767Z
+  last_success_at: 2026-11-23T01:41:30.767Z
+  status: success
+  items_created: 60
+  pipeline: agent-pipeline
+- url: https://github.com/topics/erp
+  normalized_url: https://github.com/topics/erp
+  first_seen_at: 2026-11-23T01:49:14.042Z
+  last_attempted_at: 2026-11-23T01:49:14.042Z
+  last_success_at: 2026-11-23T01:49:14.042Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
+- url: https://openalternative.co/categories/business-software/erp-operations
+  normalized_url: https://openalternative.co/categories/business-software/erp-operations
+  first_seen_at: 2026-11-23T01:46:45.852Z
+  last_attempted_at: 2026-11-23T01:46:45.852Z
+  last_success_at: 2026-11-23T01:46:45.852Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.saashub.com/best-erp-software
+  normalized_url: https://www.saashub.com/best-erp-software
+  first_seen_at: 2026-11-23T01:42:56.806Z
+  last_attempted_at: 2026-11-23T01:42:56.806Z
+  last_success_at: 2026-11-23T01:42:56.806Z
+  status: success
+  items_created: 6
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/erp-software
+  normalized_url: https://www.softwaresuggest.com/erp-software
+  first_seen_at: 2026-11-23T01:41:54.434Z
+  last_attempted_at: 2026-11-23T01:41:54.434Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.softwaresuggest.com/erp-software"
+- url: https://zapier.com/blog/best-erp-software/
+  normalized_url: https://zapier.com/blog/best-erp-software
+  first_seen_at: 2026-11-23T01:43:40.765Z
+  last_attempted_at: 2026-11-23T01:43:40.765Z
+  last_success_at: 2026-11-23T01:43:40.765Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
